@@ -1,12 +1,6 @@
 # 🏨 Hotel Booking Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/techysuman27/EDA---Hotel_Booking_Analysis/blob/main/EDA_Hotel_Booking_Analysis_.ipynb)
-
-## 📌 Project Type  
-Exploratory Data Analysis (EDA)  
-**Academic Project**: Almabetter
-
-**Contributor**: Suman Sadhukhan (Individual)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MngwtJSIn2eYPGi__9W1r6q8YNsiVRRZ#scrollTo=K5QZ13OEpz2H&uniqifier=2)
 
 ---
 
